@@ -19,6 +19,8 @@ Fertilization timing also varied between treatments. The conventional treatment 
 Irrigation was applied identically to both plants, with water volume determined based on transpiration measurements. The amount of water supplied was calculated according to the transpiration rate of a single reference plant, under the assumption that both plants experienced similar environmental conditions and transpiration patterns. This approach ensured that irrigation matched actual water loss, maintaining consistent hydration levels without excess or deficit.
 
 sketch
+![image](https://github.com/user-attachments/assets/fee7cc37-f8e0-4a94-b83e-0f23357c72af)
+
  ![image](https://github.com/user-attachments/assets/d2bb3d9b-94bb-4aba-9f59-729c4e2495f4)
  ![image](https://github.com/user-attachments/assets/5840ab3e-4319-4221-80b2-c94b0ebd7780)
  ![image](https://github.com/user-attachments/assets/5217b046-0a10-4f2d-be89-481f1f6e5229)
