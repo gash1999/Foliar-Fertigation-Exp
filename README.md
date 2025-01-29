@@ -24,9 +24,6 @@ sketch
  We used two esp32 controllers: one connected to the load cells, transmitting data to ThingSpeak, and another controlling the fertilization pump and valves based on commands from the background software. Additionally, the second controller was linked to the leaf moisture sensor, receiving real-time readings to stop fertilization once saturation was reached.
 
 
-# Code
-Provide all code used in this project. Code should be organized with comments throughout explaining it.
-
 # Experiment
 ![image](https://github.com/user-attachments/assets/5216f937-63fb-45c5-800a-081717464ffe)
 ![image](https://github.com/user-attachments/assets/9c22373a-a0de-436b-b9f5-81d950a752f6)
