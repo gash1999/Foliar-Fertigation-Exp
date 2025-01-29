@@ -20,6 +20,8 @@ Irrigation was applied identically to both plants, with water volume determined 
 
 sketch
  ![image](https://github.com/user-attachments/assets/d2bb3d9b-94bb-4aba-9f59-729c4e2495f4)
+ ![image](https://github.com/user-attachments/assets/5840ab3e-4319-4221-80b2-c94b0ebd7780)
+
  
  We used two esp32 controllers: one connected to the load cells, transmitting data to ThingSpeak, and another controlling the fertilization pump and valves based on commands from the background software. Additionally, the second controller was linked to the leaf moisture sensor, receiving real-time readings to stop fertilization once saturation was reached.
 
